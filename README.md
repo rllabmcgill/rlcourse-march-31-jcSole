@@ -1,5 +1,5 @@
 Discussion of the emphatic TD(0) algorithm (with experiments in the ipython notebook) from the paper
 
-Sutton, R. S., _Learning to predict by the methods of temporal diﬀrences_,Machine Learning 3:9–44, erratum p. 377., (1988)
-
+Sutton, Richard S., A. Rupam Mahmood, and Martha White.,_"An emphatic approach to the problem of oﬀ-policy temporal-diﬀerence  learning."_,The Journal of Machine Learning
+Research 17,(2015)
 
